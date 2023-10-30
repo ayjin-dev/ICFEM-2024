@@ -27,6 +27,9 @@ data2_aiapp_4.csv
 | 10    | NetEase Cloud Music  | 1695M    | 1259     | 83.00%       | 165MB   | 2023/1/10 12:36 | 8.9.11        | Hangzhou NetEase Cloud Music Technology Co., Ltd. | Video             | TRUE  |
 | ...    | ...      | ...     | ...       | ...       | ... | ... | ...    | ... | ...             | ... |
 
+
+**We will continue to update this repo constantly, so stay tuned!**
+
 If you need the apk/models dataset.
 
 Please contact with us by email: ouyangjin334@gmail.com
